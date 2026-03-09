@@ -50,10 +50,13 @@ Each PCB project generally contains:
 ```
 Project_Name/
 │
-├── Schematic/          # Schematic files
-├── PCB/                # PCB layout files
-├── Gerber/             # Manufacturing files
-├── Images/             # PCB renders or board photos
+├── Docs
+    ├── Schematic/          # Schematic files  
+    ├── Images/             # PCB renders or board photos
+├── PCB
+    ├── .kicad_pro
+    ├── .kicad_pcb
+    ├── .kicad_sch            
 └── README.md           # Project explanation
 ```
 
