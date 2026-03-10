@@ -1598,6 +1598,18 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 74.93 58.42)
+		(end 218.44 135.89)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7e9571c6-35e1-4187-9e5f-25b675e803c5)
+	)
 	(text "servo motor"
 		(exclude_from_sim no)
 		(at 208.28 102.87 0)
@@ -1607,6 +1619,18 @@
 			)
 		)
 		(uuid "3eed7e56-a528-4d3f-b0e9-dbc0e4894907")
+	)
+	(text "Servo Tester using 555 Timer IC"
+		(exclude_from_sim no)
+		(at 116.84 64.77 0)
+		(effects
+			(font
+				(face "Bahnschrift")
+				(size 3.81 3.81)
+				(bold yes)
+			)
+		)
+		(uuid "75d3b58e-979a-470d-9a86-cb5dfcf87549")
 	)
 	(text "Input 6V DC"
 		(exclude_from_sim no)
@@ -2285,7 +2309,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03_Pin"
-			(at 208.28 97.7899 0)
+			(at 212.09 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2741,7 +2765,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "72fc3ec0-ae79-4737-8846-eea771a4a70d")
 		(property "Reference" "J1"
 			(at 85.725 86.36 0)
@@ -2752,7 +2775,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 85.725 88.9 0)
+			(at 81.28 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
