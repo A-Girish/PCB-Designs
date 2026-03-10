@@ -188,10 +188,8 @@
       ],
       "track_widths": [
         0.0,
-        0.0,
         0.5,
-        1.0,
-        1.5
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -467,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Transformer Less Power supply.kicad_pro",
+    "filename": "Servo Tester.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -614,7 +612,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "../Docs/",
+    "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -627,7 +625,7 @@
   },
   "sheets": [
     [
-      "052f9d15-9cba-499e-854f-0c1285f7e55b",
+      "b3d3b35e-ed77-4f67-8c06-bd6f2f472afe",
       "Root"
     ]
   ],
