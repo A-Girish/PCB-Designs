@@ -249,7 +249,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "8051 MC.kicad_pro",
+    "filename": "USB to UART Converter.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -409,7 +409,7 @@
   },
   "sheets": [
     [
-      "092a7abd-49ea-4beb-806d-a110e35374bf",
+      "c261a7b5-98ec-4337-9241-27a876a69293",
       "Root"
     ]
   ],
